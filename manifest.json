@@ -1,0 +1,16 @@
+{
+  "index.html": {
+    "file": "assets/index.976b57f2.js",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_vendor.4defa854.js"
+    ],
+    "css": [
+      "assets/index.3b8d558d.css"
+    ]
+  },
+  "_vendor.4defa854.js": {
+    "file": "assets/vendor.4defa854.js"
+  }
+}
